@@ -47,10 +47,10 @@ J'ai travaillé sur des problématiques de **gestion des vulnérabilités**, **a
 
 | Projet | Description | Stack |
 |--------|-------------|-------|
-| [🔒 Automated IT Audit Framework](https://github.com/ndoudinimrod/PROJECTS_NDOUDI_Nimrod/tree/main/Automated%20IT%20Audit%20%26%20Compliance%20Framework%20%5BPERSONAL%5D) | Framework d'audit IT automatisé & conformité | Python |
-| [🗺️ Cartographie Audit IT](https://github.com/ndoudinimrod/PROJECTS_NDOUDI_Nimrod/tree/main/Cartographie%20Audit%20IT%20%5BPERSONAL%5D) | Cartographie des risques et contrôles IT | - |
-| [🔑 Password Manager](https://github.com/ndoudinimrod/PROJECTS_NDOUDI_Nimrod/tree/main/PASSWORD%20MANAGER%20%5BPERSONAL%5D) | Gestionnaire de mots de passe sécurisé | - |
-| [💰 Suivi Budgétaire](https://github.com/ndoudinimrod/PROJECTS_NDOUDI_Nimrod/tree/main/Suivi%20Budg%C3%A9taire%20Personnel%20%5BPERSONAL%5D) | Application de suivi budgétaire personnel | - |
+| [🔒 Automated IT Audit Framework](https://github.com/ndoudinimrod/PROJECTS_NDOUDI_Nimrod/tree/main/Automated%20IT%20Audit%20%26%20Compliance%20Framework%20%5BPERSONAL%5D) | Framework d'audit IT automatisé & conformité | Excel VBA Word |
+| [🗺️ Cartographie Audit IT](https://github.com/ndoudinimrod/PROJECTS_NDOUDI_Nimrod/tree/main/Cartographie%20Audit%20IT%20%5BPERSONAL%5D) | Cartographie des risques et contrôles IT | Excel |
+| [🔑 Password Manager](https://github.com/ndoudinimrod/PROJECTS_NDOUDI_Nimrod/tree/main/PASSWORD%20MANAGER%20%5BPERSONAL%5D) | Gestionnaire de mots de passe sécurisé | C |
+| [💰 Suivi Budgétaire](https://github.com/ndoudinimrod/PROJECTS_NDOUDI_Nimrod/tree/main/Suivi%20Budg%C3%A9taire%20Personnel%20%5BPERSONAL%5D) | Application de suivi budgétaire personnel | Excel |
 
 ---
 
