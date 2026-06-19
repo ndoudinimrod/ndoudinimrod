@@ -15,7 +15,7 @@ I'm a cybersecurity and IT audit engineer graduated from ESIEA Paris (BAC+5).
 I have experience working on **vulnerability management**, **IT audit frameworks**, **GRC/compliance**, and **security tooling** for large organizations.
 
 - 🔍 Interested in: IT Audit · GRC · Vulnerability Management · Compliance · Pentest
-- 🛠️ Stack: Python · Batch · VBA · JavaScript · Java · C · Kotlin · SQL
+- 🛠️ Stack: Python · Batch · VBA · JavaScript · Java · C · Kotlin · SQL · CSS · React
 - 📄 Portfolio: [ndoudinimrod.github.io](https://ndoudinimrod.github.io/)
 
 ---
@@ -26,7 +26,7 @@ Ingénieur diplômé de l'ESIEA Paris (BAC+5) spécialisé en Cybersécurité et
 J'ai travaillé sur des problématiques de **gestion des vulnérabilités**, **audit IT**, **conformité/GRC** et **outillage sécurité** pour de grandes entreprises.
 
 - 🔍 Domaines : Audit IT · GRC · Gestion des vulnérabilités · Conformité · Cybersécurité
-- 🛠️ Stack : Python · Batch · VBA · JavaScript · Java · C · Kotlin · SQL
+- 🛠️ Stack : Python · Batch · VBA · JavaScript · Java · C · Kotlin · SQL 
 - 📄 Portfolio : [ndoudinimrod.github.io](https://ndoudinimrod.github.io/)
 
 ---
@@ -39,8 +39,12 @@ J'ai travaillé sur des problématiques de **gestion des vulnérabilités**, **a
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
-
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+![VBA](https://img.shields.io/badge/Macro-VBA-orange?logo=visual-basic)
+![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
 ---
 
 ## 📂 Featured Projects
