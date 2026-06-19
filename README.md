@@ -27,7 +27,7 @@ Ingénieur diplômé de l'ESIEA Paris (BAC+5) spécialisé en Cybersécurité et
 J'ai travaillé sur des problématiques de **gestion des vulnérabilités**, **audit IT**, **conformité/GRC** et **outillage sécurité** pour de grandes entreprises.
 
 - 🔍 Domaines : Audit IT · GRC · Gestion des vulnérabilités · Conformité · Cybersécurité
-- 🛠️ Stack : Python · Batch · VBA · JavaScript · Java · C · Kotlin · SQL 
+- 🛠️ Stack : Python · Batch · VBA · JavaScript · Java · C · Kotlin · SQL · CSS · React 
 - 📄 Portfolio : [ndoudinimrod.github.io](https://ndoudinimrod.github.io/)
 
 ---
