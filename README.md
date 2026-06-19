@@ -3,7 +3,7 @@
 
 <p align="center">
   🔐 <strong>Cybersecurity Engineer & IT Auditor</strong> · Ingénieur Cybersécurité & Audit IT<br>
-  🎓 BAC+5 — ESIEA Paris · Spécialisé Cybersécurité / Audit IT<br>
+  🎓 <strong>Master's degree - ESIEA Paris · Specialized on Cybersecurity / IT Audit </strong> ·BAC+5 — ESIEA Paris · Spécialisé Cybersécurité / Audit IT<br>
   📍 Paris, France · 
 </p>
 
