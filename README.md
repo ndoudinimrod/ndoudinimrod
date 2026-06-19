@@ -12,7 +12,7 @@
 
 ## 🇬🇧 About me
 
-I'm a cybersecurity and IT audit engineer graduated from ESIEA Paris (BAC+5).  
+I'm a cybersecurity and IT audit engineer graduated from ESIEA Paris (Master's degree).  
 I have experience working on **vulnerability management**, **IT audit frameworks**, **GRC/compliance**, and **security tooling** for large organizations.
 
 - 🔍 Interested in: IT Audit · GRC · Vulnerability Management · Compliance · Pentest
