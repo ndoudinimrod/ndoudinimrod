@@ -50,12 +50,13 @@ J'ai travaillé sur des problématiques de **gestion des vulnérabilités**, **a
 
 ## 📂 Featured Projects
 
-| Projet | Description | Stack |
+| Projet/Project | Description | Stack |
 |--------|-------------|-------|
-| [🔒 Automated IT Audit Framework](https://github.com/ndoudinimrod/PROJECTS_NDOUDI_Nimrod/tree/main/Automated%20IT%20Audit%20%26%20Compliance%20Framework%20%5BPERSONAL%5D) | Framework d'audit IT automatisé & conformité | Excel VBA Word |
-| [🗺️ Cartographie Audit IT](https://github.com/ndoudinimrod/PROJECTS_NDOUDI_Nimrod/tree/main/Cartographie%20Audit%20IT%20%5BPERSONAL%5D) | Cartographie des risques et contrôles IT | Excel |
-| [🔑 Password Manager](https://github.com/ndoudinimrod/PROJECTS_NDOUDI_Nimrod/tree/main/PASSWORD%20MANAGER%20%5BPERSONAL%5D) | Gestionnaire de mots de passe sécurisé | C |
-| [💰 Suivi Budgétaire](https://github.com/ndoudinimrod/PROJECTS_NDOUDI_Nimrod/tree/main/Suivi%20Budg%C3%A9taire%20Personnel%20%5BPERSONAL%5D) | Application de suivi budgétaire personnel | Excel |
+| [🔒 Automated IT Audit Framework](https://github.com/ndoudinimrod/PROJECTS_NDOUDI_Nimrod/tree/main/Automated%20IT%20Audit%20%26%20Compliance%20Framework%20%5BPERSONAL%5D) | <em>Automated IT audit & compliance framework <br>Framework d'audit IT automatisé & conformité</em> | <strong>Excel · VBA · Word</strong> |
+| [🗺️ Cartographie Audit IT](https://github.com/ndoudinimrod/PROJECTS_NDOUDI_Nimrod/tree/main/Cartographie%20Audit%20IT%20%5BPERSONAL%5D) | <em>IT Risk Mapping and Controls<br>Cartographie des risques et contrôles IT</em> | <strong>Excel</strong> |
+| [🔑 Password Manager](https://github.com/ndoudinimrod/PROJECTS_NDOUDI_Nimrod/tree/main/PASSWORD%20MANAGER%20%5BPERSONAL%5D) | <em>Secure password manager <br>Gestionnaire de mots de passe sécurisé</em> |  <strong>C</strong> |
+| [💰 Suivi Budgétaire](https://github.com/ndoudinimrod/PROJECTS_NDOUDI_Nimrod/tree/main/Suivi%20Budg%C3%A9taire%20Personnel%20%5BPERSONAL%5D) | <em>Personal budget tracking app<br>Application de suivi budgétaire personnel</em> | <strong>Excel</strong> |
+| [🌐 Portofolio Web](https://ndoudinimrod.github.io/) | <em>Presentation of my experiences, projects & skills<br>Présentation de mes expériences, projets & compétences</em> | <strong> React · JS · CSS </strong> |
 
 ---
 
